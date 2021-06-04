@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🌱 java、Python AI 算法工程师
+
+🔭 主要研究方向：联邦学习
+
+✨个人博客：www.thebetterkong.cn
+
+💬 欢迎交流 😄
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TheBetterKong&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
