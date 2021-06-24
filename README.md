@@ -15,19 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-#    total width = 854 px
-----------|---------|----------
-   left   | padding |  right
-  465 px  |  40 px  |  349 px
-----------|---------|----------
-    total height = 280 px
--->
 
 
-<a href="https://github.com/bugstop?tab=repositories">
 
-<div>
 🌱 java、Python AI 算法工程师
 
 🔭 主要研究方向：联邦学习
@@ -35,10 +25,7 @@ Here are some ideas to get you started:
 ✨个人博客：www.thebetterkong.cn
 
 💬 欢迎交流 😄
-</div>
 
-<div>
-   <img align="right" height="137" width="349" src="https://github-readme-stats.vercel.app/api?username=TheBetterKong&show_icons=true&include_all_commits=true&hide_border=true&bg_color=-40,6A2FA8,BF2FA8&title_color=FFFFFF&text_color=F0F0F0&icon_color=DECEAB" />
-</div>
 
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TheBetterKong&show_icons=true&include_all_commits=true&hide_border=true&bg_color=-40,6A2FA8,BF2FA8&title_color=FFFFFF&text_color=F0F0F0&icon_color=DECEAB" />
+
