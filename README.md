@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TheBetterKong&show_icons=true&include_all_commits=true&hide_border=true&bg_color=-40,6A2FA8,BF2FA8&title_color=FFFFFF&text_color=F0F0F0&icon_color=DECEAB" />
 
-🌱 java、Python AI 算法工程师
+🌱 Python、Go、Java AI 算法工程师
 
 🔭 主要研究方向：联邦学习
 
